@@ -1,0 +1,2 @@
+# ProgrammerStandardChallenge
+プログラマ標準チャレンジをしてみるリポジトリ
