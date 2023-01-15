@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "batch-example",
+    "business",
+    "domain",
+    "infrastructure",
+]
